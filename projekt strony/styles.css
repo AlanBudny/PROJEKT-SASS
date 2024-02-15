@@ -1,0 +1,55 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header
+nav
+nav ul
+nav ul li
+nav ul li a
+main {
+  padding: 1rem;
+}
+
+footer {
+  background-color: #ff5500;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.film {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.film img {
+  width: 150px; 
+  margin-right: 1rem;
+}
+
+.film-description {
+  flex: 1;
+}
+
+.film-description h3 {
+  margin-top: 0;
+}
+.menu-item {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.menu-item img {
+  width: 150px;
+  margin-right: 1rem;
+}
+
+.item-description {
+  flex: 1;
+}
+
+.item-description h3 {
+  margin-top: 0;
+}
